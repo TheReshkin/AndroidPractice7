@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
     public TextView regionTextView;
     public TextView countryTextView;
     public final String url = "http://whatismyip.akamai.com/";
+    //bad internet(
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
